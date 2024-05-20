@@ -15,7 +15,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository:**
 ```
-git clone [https://github.com/your-username/todo-list.git](https://github.com/Radwa-Ibrahim0/React-todolist.git)
+git clone https://github.com/Radwa-Ibrahim0/React-todolist.git
 ```
 2. **Navigate into the project directory:**
 ```
